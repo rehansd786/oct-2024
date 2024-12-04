@@ -1,0 +1,30 @@
+#app-layout {
+    width:100%;
+    /* max-width: 1200px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#app-layout  > div {
+    width: 100%;
+    max-width: 1200px;
+}
+
+.app-header {
+    height:80px;
+    background-color: blue;
+}
+
+.app-content {
+    min-height: 1000px;
+}
+
+.app-footer {
+    height:200px;
+    background-color: black;
+}
+
+a {
+    padding:10px;
+}

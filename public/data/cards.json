@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Angular",
+        "path": "/images/angular.png",
+        "desc": "Angular is a web framework that empowers developers to build fast, reliable applications."
+    },
+    {
+        "name" : "React",
+        "path": "/images/react.png",
+        "desc": "The library for web and native user interfaces"
+    },
+    {
+        "name" : "Vue",
+        "path": "/images/vue.png",
+        "desc": "An approachable, performant and versatile framework for building web user interfaces."
+    }
+]

@@ -1,0 +1,34 @@
+#card-container-id {
+    border: 2px solid #949494;
+    margin:100px;
+    display: flex;
+    flex-direction: column;
+}
+
+#card-container-id .card-form {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card-container-id .card-form input, button {
+    padding: 15px;
+}
+
+#card-container-id .card {
+    display: flex;
+    flex-direction: row;
+    border: 1px dashed #ccc;
+}
+
+#card-container-id .card > div:first-child {
+    width: 40%;
+}
+
+
+#card-container-id .card > div:last-child {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
